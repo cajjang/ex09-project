@@ -1,13 +1,20 @@
 ---
-# Do not edit the text between these lines!
 layout: default
 ---
 
-# This is a big header
+# COMP 110 Data Analysis: Pre-Lecture Videos
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+## Summary
+For this project I analyzed whether students in COMP 110 would find pre-recorded lecture videos helpful. I used survey data collected from two sections of COMP 110 to explore this idea.
 
-## This is a small header
+## Analysis
+I looked at the `pre_lecture_videos` column in the survey which asked students to rate on a scale of 1-7 whether they would find pre-lecture videos helpful. I also compared ratings across different levels of prior coding experience and course understanding.
 
-This is basic paragraph text.
+## Visualizations
+
+![Chart 1](chart1.png)
+![Chart 2](chart2.png)
+![Chart 3](chart3.png)
+
+## Conclusion
+The data shows that most students rated pre-lecture videos highly, especially students with little to no prior coding experience. Students who reported lower understanding of the course material also tended to rate pre-lecture videos higher, suggesting they are looking for more ways to review content outside of class. Overall the data supports adding pre-lecture videos to COMP 110.
